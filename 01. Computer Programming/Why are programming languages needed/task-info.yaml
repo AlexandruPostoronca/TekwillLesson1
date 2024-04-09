@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: to better understand foreign languages
+    is_correct: false
+  - text: to learn math
+    is_correct: false
+  - text: to write the course of actions understandable for the machine
+    is_correct: true
+  - text: to understand how a computer works
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      public class Main {
+         public static void main(String[] args) {
+            // Write your solution here
+         }
+      }
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

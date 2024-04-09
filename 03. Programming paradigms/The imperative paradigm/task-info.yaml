@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: general knowledge database
+    is_correct: false
+  - text: step by step instructions that change the data sequentially
+    is_correct: true
+  - text: predicting results from available statistics
+    is_correct: false
+  - text: logical functions and statements
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      public class Main {
+         public static void main(String[] args) {
+            // Write your solution here
+         }
+      }
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

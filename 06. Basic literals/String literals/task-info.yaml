@@ -1,0 +1,29 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: '''5'''
+    is_correct: false
+  - text: '"q"'
+    is_correct: true
+  - text: '"2312"'
+    is_correct: true
+  - text: '"text"'
+    is_correct: true
+  - text: '''q'''
+    is_correct: false
+  - text: 443
+    is_correct: false
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      public class Main {
+         public static void main(String[] args) {
+            // Write your solution here
+         }
+      }
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

@@ -1,0 +1,27 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: You are writing a massive application
+    is_correct: false
+  - text: You need to write your code on a really old computer
+    is_correct: true
+  - text: You are designing a program with graphical user interface
+    is_correct: false
+  - text: You want to make a tiny change to the file
+    is_correct: true
+  - text: You need to debug a lot
+    is_correct: false
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      public class Main {
+         public static void main(String[] args) {
+            // Write your solution here
+         }
+      }
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

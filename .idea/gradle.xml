@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01. Computer Programming/A lot of languages" />
+            <option value="$PROJECT_DIR$/01. Computer Programming/Back-end languages" />
+            <option value="$PROJECT_DIR$/01. Computer Programming/Learning front-end development" />
+            <option value="$PROJECT_DIR$/01. Computer Programming/Missing action" />
+            <option value="$PROJECT_DIR$/01. Computer Programming/Programming language" />
+            <option value="$PROJECT_DIR$/01. Computer Programming/Right algorithm" />
+            <option value="$PROJECT_DIR$/01. Computer Programming/Statements about programming" />
+            <option value="$PROJECT_DIR$/01. Computer Programming/Theory" />
+            <option value="$PROJECT_DIR$/01. Computer Programming/True programmer" />
+            <option value="$PROJECT_DIR$/01. Computer Programming/What is a program code" />
+            <option value="$PROJECT_DIR$/01. Computer Programming/Why are programming languages needed" />
+            <option value="$PROJECT_DIR$/02. Introduction to Java (1)/Applications of Java" />
+            <option value="$PROJECT_DIR$/02. Introduction to Java (1)/Hello" />
+            <option value="$PROJECT_DIR$/02. Introduction to Java (1)/History of Java" />
+            <option value="$PROJECT_DIR$/02. Introduction to Java (1)/Memory cleaning" />
+            <option value="$PROJECT_DIR$/02. Introduction to Java (1)/Owner of Java" />
+            <option value="$PROJECT_DIR$/02. Introduction to Java (1)/Running a program on different platforms" />
+            <option value="$PROJECT_DIR$/02. Introduction to Java (1)/TIOBE" />
+            <option value="$PROJECT_DIR$/02. Introduction to Java (1)/Theory" />
+            <option value="$PROJECT_DIR$/02. Introduction to Java (1)/WORA" />
+            <option value="$PROJECT_DIR$/03. Programming paradigms/Choose the paradigm" />
+            <option value="$PROJECT_DIR$/03. Programming paradigms/Choose the paradigm 2" />
+            <option value="$PROJECT_DIR$/03. Programming paradigms/Object methods" />
+            <option value="$PROJECT_DIR$/03. Programming paradigms/Programming paradigms" />
+            <option value="$PROJECT_DIR$/03. Programming paradigms/The declarative paradigm types" />
+            <option value="$PROJECT_DIR$/03. Programming paradigms/The imperative paradigm" />
+            <option value="$PROJECT_DIR$/03. Programming paradigms/Theory" />
+            <option value="$PROJECT_DIR$/04. JVM, JRE, and JDK/Theory" />
+            <option value="$PROJECT_DIR$/04. JVM, JRE, and JDK/What do you need as a developer" />
+            <option value="$PROJECT_DIR$/04. JVM, JRE, and JDK/What do you need as a user" />
+            <option value="$PROJECT_DIR$/04. JVM, JRE, and JDK/What does JDK include" />
+            <option value="$PROJECT_DIR$/04. JVM, JRE, and JDK/What does JRE include" />
+            <option value="$PROJECT_DIR$/04. JVM, JRE, and JDK/What is HotSpot" />
+            <option value="$PROJECT_DIR$/04. JVM, JRE, and JDK/Where is JVM" />
+            <option value="$PROJECT_DIR$/04. JVM, JRE, and JDK/Where is the Java compiler" />
+            <option value="$PROJECT_DIR$/05. IDE, IntelliJ IDEA/IDEs" />
+            <option value="$PROJECT_DIR$/05. IDE, IntelliJ IDEA/Live Templates" />
+            <option value="$PROJECT_DIR$/05. IDE, IntelliJ IDEA/Properties" />
+            <option value="$PROJECT_DIR$/05. IDE, IntelliJ IDEA/Settings" />
+            <option value="$PROJECT_DIR$/05. IDE, IntelliJ IDEA/Theme" />
+            <option value="$PROJECT_DIR$/05. IDE, IntelliJ IDEA/Theory IDE" />
+            <option value="$PROJECT_DIR$/05. IDE, IntelliJ IDEA/Theory IntelliJ" />
+            <option value="$PROJECT_DIR$/05. IDE, IntelliJ IDEA/What about text editor" />
+            <option value="$PROJECT_DIR$/05. IDE, IntelliJ IDEA/What can we do in IDE" />
+            <option value="$PROJECT_DIR$/05. IDE, IntelliJ IDEA/What components does an IDE have" />
+            <option value="$PROJECT_DIR$/05. IDE, IntelliJ IDEA/What does IDE stand for" />
+            <option value="$PROJECT_DIR$/05. IDE, IntelliJ IDEA/What task to do" />
+            <option value="$PROJECT_DIR$/06. Basic literals/A literal for an address" />
+            <option value="$PROJECT_DIR$/06. Basic literals/A valid string" />
+            <option value="$PROJECT_DIR$/06. Basic literals/Character literals" />
+            <option value="$PROJECT_DIR$/06. Basic literals/Check for mistakes" />
+            <option value="$PROJECT_DIR$/06. Basic literals/Find an invalid literal" />
+            <option value="$PROJECT_DIR$/06. Basic literals/Find the correct ones" />
+            <option value="$PROJECT_DIR$/06. Basic literals/Incorrect literal" />
+            <option value="$PROJECT_DIR$/06. Basic literals/Invalid string literals" />
+            <option value="$PROJECT_DIR$/06. Basic literals/Latin capital letters" />
+            <option value="$PROJECT_DIR$/06. Basic literals/Number literals" />
+            <option value="$PROJECT_DIR$/06. Basic literals/String literals" />
+            <option value="$PROJECT_DIR$/06. Basic literals/Theory" />
+            <option value="$PROJECT_DIR$/07. Overview of the basic program (1)/Cats are robots" />
+            <option value="$PROJECT_DIR$/07. Overview of the basic program (1)/Elements of a program" />
+            <option value="$PROJECT_DIR$/07. Overview of the basic program (1)/Find a keyword" />
+            <option value="$PROJECT_DIR$/07. Overview of the basic program (1)/Find a word that is not a keyword" />
+            <option value="$PROJECT_DIR$/07. Overview of the basic program (1)/Hello, Java" />
+            <option value="$PROJECT_DIR$/07. Overview of the basic program (1)/Keywords" />
+            <option value="$PROJECT_DIR$/07. Overview of the basic program (1)/Statements" />
+            <option value="$PROJECT_DIR$/07. Overview of the basic program (1)/The first program" />
+            <option value="$PROJECT_DIR$/07. Overview of the basic program (1)/Theory" />
+            <option value="$PROJECT_DIR$/08. Write, compile, and run/Bytecode" />
+            <option value="$PROJECT_DIR$/08. Write, compile, and run/Code for a computer" />
+            <option value="$PROJECT_DIR$/08. Write, compile, and run/MyHelloWorldApplication class" />
+            <option value="$PROJECT_DIR$/08. Write, compile, and run/Platform independence" />
+            <option value="$PROJECT_DIR$/08. Write, compile, and run/Statements" />
+            <option value="$PROJECT_DIR$/08. Write, compile, and run/Theory" />
+            <option value="$PROJECT_DIR$/08. Write, compile, and run/What is the source code translated into" />
+            <option value="$PROJECT_DIR$/09. Printing data (1)/Digits from 0 to 9 backwards" />
+            <option value="$PROJECT_DIR$/09. Printing data (1)/First, second, third" />
+            <option value="$PROJECT_DIR$/09. Printing data (1)/From 0 to 4" />
+            <option value="$PROJECT_DIR$/09. Printing data (1)/Printing a magic letter" />
+            <option value="$PROJECT_DIR$/09. Printing data (1)/Stars" />
+            <option value="$PROJECT_DIR$/09. Printing data (1)/The result of a Tic-Tac-Toe game" />
+            <option value="$PROJECT_DIR$/09. Printing data (1)/Theory" />
+            <option value="$PROJECT_DIR$/09. Printing data (1)/We need to learn Java" />
+            <option value="$PROJECT_DIR$/09. Printing data (1)/What does the code print" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

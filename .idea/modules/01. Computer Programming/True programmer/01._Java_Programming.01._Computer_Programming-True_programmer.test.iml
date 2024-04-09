@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":01._Computer_Programming-True_programmer:test" external.linked.project.path="$MODULE_DIR$/../../../../01. Computer Programming/True programmer" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="01._Java_Programming" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../../../01. Computer Programming/True programmer/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../01. Computer Programming/True programmer/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../01. Computer Programming/True programmer/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="01._Java_Programming.01._Computer_Programming-True_programmer.main" />
+    <orderEntry type="module" module-name="01._Java_Programming.util.main" />
+    <orderEntry type="module" module-name="01._Java_Programming.util.test" production-on-test="" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="01._Java_Programming.01._Computer_Programming-True_programmer.main" />
+</module>

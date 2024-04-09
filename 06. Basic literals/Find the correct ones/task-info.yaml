@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: '"abc" is a correct string'
+    is_correct: true
+  - text: 10 is a correct number
+    is_correct: true
+  - text: '"123" is a correct number'
+    is_correct: false
+  - text: '''ab'' is a correct character literal'
+    is_correct: false
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      public class Main {
+         public static void main(String[] args) {
+            // Write your solution here
+         }
+      }
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

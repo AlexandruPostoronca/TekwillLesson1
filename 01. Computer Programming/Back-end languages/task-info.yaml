@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: PHP
+    is_correct: true
+  - text: CSS
+    is_correct: false
+  - text: Java
+    is_correct: true
+  - text: Python
+    is_correct: true
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      public class Main {
+         public static void main(String[] args) {
+            // Write your solution here
+         }
+      }
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

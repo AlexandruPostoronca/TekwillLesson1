@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: C++
+    is_correct: false
+  - text: Java
+    is_correct: false
+  - text: Python
+    is_correct: false
+  - text: S--
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      public class Main {
+         public static void main(String[] args) {
+            // Write your solution here
+         }
+      }
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

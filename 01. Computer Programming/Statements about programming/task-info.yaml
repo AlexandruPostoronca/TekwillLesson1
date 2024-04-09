@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "The more sophisticated the task, the harder to learn the language for it."
+    is_correct: false
+  - text: You need to learn every programming language to be good programmer.
+    is_correct: false
+  - text: JavaScript is used in the field of front-end development.
+    is_correct: true
+  - text: It is better to learn programming languages needed for your field of work
+    is_correct: true
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      public class Main {
+         public static void main(String[] args) {
+            // Write your solution here
+         }
+      }
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

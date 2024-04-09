@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: debugging code
+    is_correct: false
+  - text: drinking tea
+    is_correct: false
+  - text: "writing programs, solving code problems"
+    is_correct: true
+  - text: compiling programs
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      public class Main {
+         public static void main(String[] args) {
+            // Write your solution here
+         }
+      }
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

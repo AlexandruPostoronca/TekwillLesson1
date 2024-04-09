@@ -1,0 +1,29 @@
+title: 01. Java Programming
+language: English
+summary: |
+  This is an introductory course about Java Programming:
+   - Computer Programming
+   - Introduction to Java
+   - Programming paradigms
+   - JVM, JRE, and JDK
+   - IDE, IntelliJ IDEA
+   - Basic Literals
+   - Overview of the basic program
+   - Write, compile, and run
+   - Printing data
+programming_language: Java
+content:
+  - 01. Computer Programming
+  - 02. Introduction to Java (1)
+  - 03. Programming paradigms
+  - "04. JVM, JRE, and JDK"
+  - "05. IDE, IntelliJ IDEA"
+  - 06. Basic literals
+  - 07. Overview of the basic program (1)
+  - "08. Write, compile, and run"
+  - 09. Printing data (1)
+mode: Study
+environment_settings:
+  jvm_language_level: JDK_17
+vendor:
+  name: Alexandru Umaneț

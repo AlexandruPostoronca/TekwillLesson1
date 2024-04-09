@@ -1,0 +1,66 @@
+type: theory
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      public class Main {
+         public static void main(String[] args) {
+            // Write your solution here
+         }
+      }
+    learner_created: false
+  - name: 1.5.4.jpg
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: 1.5.5.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: 1.5.6.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: 1.5.7.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: 1.5.8.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: 1.5.9.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: 1.5.10.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: 1.5.11.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: 1.5.12.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: 1.5.13.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: 1.5.14.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: 1.5.15.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: 1.5.16.png
+    visible: false
+    is_binary: true
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

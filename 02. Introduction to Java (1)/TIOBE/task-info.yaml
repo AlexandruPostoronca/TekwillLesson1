@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: A website popularity index
+    is_correct: false
+  - text: A programming language popularity index
+    is_correct: true
+  - text: A development tool popularity index
+    is_correct: false
+  - text: A game popularity index
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      public class Main {
+         public static void main(String[] args) {
+            // Write your solution here
+         }
+      }
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

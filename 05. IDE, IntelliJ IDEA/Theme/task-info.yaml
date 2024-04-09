@@ -1,0 +1,27 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: File | Project Structure
+    is_correct: false
+  - text: Help
+    is_correct: false
+  - text: View | Tool Windows
+    is_correct: false
+  - text: Tools
+    is_correct: false
+  - text: "File | Settings for Windows and Linux, or IntelliJ IDEA | Preferences for\
+    \ macOS"
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      public class Main {
+         public static void main(String[] args) {
+            // Write your solution here
+         }
+      }
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: This is the only legal implementation of the JVM.
+    is_correct: false
+  - text: This is the name of the specification for Java Virtual Machines.
+    is_correct: false
+  - text: This is a synonym for the Java Virtual Machine.
+    is_correct: false
+  - text: This is one of the existing JVM implementations.
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      public class Main {
+         public static void main(String[] args) {
+            // Write your solution here
+         }
+      }
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

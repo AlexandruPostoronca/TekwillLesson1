@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: '"123456"'
+    is_correct: false
+  - text: 1806
+    is_correct: false
+  - text: '''abc'''
+    is_correct: true
+  - text: '"e-mail@gmail.com"'
+    is_correct: false
+  - text: '''@'''
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      public class Main {
+         public static void main(String[] args) {
+            // Write your solution here
+         }
+      }
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

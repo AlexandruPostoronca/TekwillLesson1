@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Computer games
+    is_correct: true
+  - text: Android smartphones
+    is_correct: true
+  - text: Financial services industry
+    is_correct: true
+  - text: Medical applications
+    is_correct: true
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      public class Main {
+         public static void main(String[] args) {
+            // Write your solution here
+         }
+      }
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

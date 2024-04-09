@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: debugger
+    is_correct: true
+  - text: build automation tools
+    is_correct: true
+  - text: text editor
+    is_correct: true
+  - text: translator (compiler and/or interpreter)
+    is_correct: true
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      public class Main {
+         public static void main(String[] args) {
+            // Write your solution here
+         }
+      }
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

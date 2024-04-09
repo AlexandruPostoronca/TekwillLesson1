@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "The method main can have another name (start, run, program)."
+    is_correct: false
+  - text: To display a string we pass it to System.out.println(...).
+    is_correct: true
+  - text: The main method can be placed outside a class.
+    is_correct: false
+  - text: "A class containing the main method can have any valid name (Main, App, Demo\
+    \ and so on)."
+    is_correct: true
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      public class Main {
+         public static void main(String[] args) {
+            // Write your solution here
+         }
+      }
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

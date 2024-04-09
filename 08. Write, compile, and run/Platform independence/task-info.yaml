@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Programs are executed on the Java Virtual Machine if the operating system
+      is not Linux.
+    is_correct: false
+  - text: Programs are directly dependent on the computer's hardware and the operating
+      system.
+    is_correct: false
+  - text: Programs need to have a special syntax to reach platform independence.
+    is_correct: false
+  - text: Programs are executed on the Java Virtual Machine to reach platform independence.
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      public class Main {
+         public static void main(String[] args) {
+            // Write your solution here
+         }
+      }
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

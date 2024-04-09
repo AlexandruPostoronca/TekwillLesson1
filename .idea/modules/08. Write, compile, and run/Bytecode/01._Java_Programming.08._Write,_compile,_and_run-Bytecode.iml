@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":08._Write,_compile,_and_run-Bytecode" external.linked.project.path="$MODULE_DIR$/../../../../08. Write, compile, and run/Bytecode" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="01._Java_Programming" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../08. Write, compile, and run/Bytecode">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../08. Write, compile, and run/Bytecode/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../08. Write, compile, and run/Bytecode/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../08. Write, compile, and run/Bytecode/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

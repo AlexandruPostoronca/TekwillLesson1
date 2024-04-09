@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":04._JVM,_JRE,_and_JDK-Where_is_the_Java_compiler:main" external.linked.project.path="$MODULE_DIR$/../../../../04. JVM, JRE, and JDK/Where is the Java compiler" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="01._Java_Programming" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../04. JVM, JRE, and JDK/Where is the Java compiler/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../04. JVM, JRE, and JDK/Where is the Java compiler/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../04. JVM, JRE, and JDK/Where is the Java compiler/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="01._Java_Programming.util.main" />
+  </component>
+</module>
